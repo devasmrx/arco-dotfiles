@@ -1,0 +1,3 @@
+Copy all to:
+
+~/.local/share/rofi/themes/
